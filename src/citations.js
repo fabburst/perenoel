@@ -38,5 +38,13 @@ module.exports = {
   citation10: {
     auteur: 'Le père noël est une ordure, Mme Musquin.',
     citation: 'Allez hop, à Créteil, hop !',
+   },
+  citation11: {
+    auteur: 'Le père noël est une ordure, Preskovic.',
+    citation: 'Je vous présente toutes mes confuses !',
+  },
+  citation12: {
+    auteur: 'Le père noël est une ordure.',
+    citation: 'Mais, mais qu est-ce qui se passe ma... Ma veste est pleine de cambouis. - Je vous présente toutes mes confuses.',
   }
 };
